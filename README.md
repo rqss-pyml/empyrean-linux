@@ -47,7 +47,7 @@
 <br>
 
 ```bash
-git clone https://github.com/addi00000/empyrean.git
+git clone https://github.com/rqss-pyml/empyrean-linux.git
 cd empyrean
 ./build.bat
 ```
